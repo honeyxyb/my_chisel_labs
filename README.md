@@ -1,2 +1,2 @@
-# my_chisel_labs
-My first chisel labs for study purpose.
+
+My first cs labs for study purpose.
